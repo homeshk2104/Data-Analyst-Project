@@ -11,7 +11,5 @@
 4) Walmart Sales Data Analysis
    - Technology : MySQL
    - Description : Analysis of Walmart sales data using SQL to identify sales , trends , and product performance.
-5) Weather forecasting system
-   - Technology : Python , Numpy , Pandas , Datasets
-   - Description : a system that uses forecasting algorithms and data analysis to make precise weather predictions.
+
      
